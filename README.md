@@ -20,13 +20,12 @@ Students in Gaza face severe difficulties accessing educational materials due to
 -  **Reserve / Cancel** – Borrow resources and manage reservations.   
 -  **Points System** – Earn points by sharing, spend points by borrowing.
 - 
-## 🏗️ Tech Stack  
+##  Tech Stack  
 - **Frontend:** React.js   
 - **Backend:** Laravel 
 - **Database:** MySQL  
   
-
-## 👥 Target Users  
+## Target Users  
 - University students in Gaza.  
 - Students needing affordable access to textbooks and software.  
 - Communities supporting knowledge sharing and cooperation.  
