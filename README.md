@@ -19,7 +19,7 @@ Students in Gaza face severe difficulties accessing educational materials due to
 -  **Add Resources** – Share books or flash drives with others.  
 -  **Reserve / Cancel** – Borrow resources and manage reservations.   
 -  **Points System** – Earn points by sharing, spend points by borrowing.
-- 
+
 ##  Tech Stack  
 - **Frontend:** React.js   
 - **Backend:** Laravel 
