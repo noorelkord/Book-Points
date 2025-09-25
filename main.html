@@ -1,40 +1,0 @@
-<!DOCTYPE html>
-<html lang="ar">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>مشروع Book Points</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-        <h1>📖 Book Points</h1>
-        <p>تتبع قراءاتك وشاركها مع أصدقائك</p>
-    </header>
-
-    <main>
-        <section class="book-input">
-            <h2>إضافة كتاب جديد</h2>
-            <form id="bookForm">
-                <input type="text" id="bookTitle" placeholder="عنوان الكتاب" required>
-                <input type="text" id="bookAuthor" placeholder="اسم الكاتب" required>
-                <input type="number" id="bookPoints" placeholder="النقاط (1-5)" min="1" max="5" required>
-                <textarea id="bookNotes" placeholder="ملاحظات (اختياري)"></textarea>
-                <button type="submit">أضف الكتاب</button>
-            </form>
-        </section>
-
-        <section class="book-list">
-            <h2>قائمة الكتب</h2>
-            <div id="booksContainer">
-                </div>
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2025 Book Points. جميع الحقوق محفوظة.</p>
-    </footer>
-
-    <script src="script.js"></script>
-</body>
-</html>
