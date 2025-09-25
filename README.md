@@ -21,7 +21,7 @@ Students in Gaza face severe difficulties accessing educational materials due to
 -  **Points System** – Earn points by sharing, spend points by borrowing.
 
 ##  Tech Stack  
-- **Frontend:** React.js   
+- **Frontend:** HTML,css,javascript  
 - **Backend:** Laravel 
 - **Database:** MySQL  
   
